@@ -1,2 +1,4 @@
 # Daspro-Jobsheet2
-repositoriku yang pertama
+
+Hello Github, ini adalah repostory pertama saya. 
+
